@@ -1,0 +1,30 @@
+{
+    "recommendations": [
+        "tree.5e-syntax",
+        "jarga.apib",
+        "iceworks-team.iceworks",
+        "nova-energy-consulting.amedsl-lang",
+        "compeador.cea",
+        "davidbroetje.algorithm-mnemonics-vscode",
+        "c5snippets.concrete5-snippets",
+        "rs4y5rvpftjwgdhnbexa2jnx7t27ravta2hpk6wblbq7kcetdaaa.engineer-theme",
+        "walter-ribeiro.full-react-snippets",
+        "aaronduino.gemini",
+        "basdp.language-gas-x86",
+        "handengineering.handcrafted-theme",
+        "arturodent.launch-config",
+        "jaaxxx.llm-book",
+        "christian-kohler.path-intellisense",
+        "wrenchingdev.quantum-leap",
+        "bbenoist.qml",
+        "tbessenreither.qcore-snippets",
+        "billti.qsx",
+        "tmshader.zodiac",
+        "sorskoot.wonderlandsnippets",
+        "captncaps.ue4-snippets",
+        "yclepticstudios.unity-snippets",
+        "unicorn-universe.uu5g05-snippets",
+        "overturetool.vdm-vscode",
+        "alchemycms.vscode-alchemy-snippets"
+    ]
+}
